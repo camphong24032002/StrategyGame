@@ -1,0 +1,55 @@
+﻿  Game.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Spikeman.h(9,52): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Swordman.h(9,51): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Game.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Game.cpp(39,28): error C2039: 'attack': is not a member of 'Soldier'
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Soldier.h(9): message : see declaration of 'Soldier'
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Game.cpp(45,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Game.cpp(53,22): warning C4018: '<': signed/unsigned mismatch
+  IVisitable.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Knight.h(9,50): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Spikeman.h(9,52): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Swordman.h(9,51): error C2504: 'IVisitable': base class undefined
+  Knight.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Spikeman.h(9,52): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Swordman.h(9,51): error C2504: 'IVisitable': base class undefined
+  main.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Spikeman.h(9,52): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Swordman.h(9,51): error C2504: 'IVisitable': base class undefined
+  RandomGenerator.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Spikeman.h(9,52): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Swordman.h(9,51): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\RandomGenerator.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rule.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Spikeman.h(9,52): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Swordman.h(9,51): error C2504: 'IVisitable': base class undefined
+  Soldier.cpp
+  SoldierFactory.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Spikeman.h(9,52): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Swordman.h(9,51): error C2504: 'IVisitable': base class undefined
+  Spikeman.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Knight.h(9,50): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Swordman.h(9,51): error C2504: 'IVisitable': base class undefined
+  SuperKnightRule.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Spikeman.h(9,52): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Swordman.h(9,51): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\SuperKnightRule.cpp(5,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\SuperKnightRule.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+  SuperSpikemanRule.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Spikeman.h(9,52): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Swordman.h(9,51): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\SuperSpikemanRule.cpp(5,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\SuperSpikemanRule.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+  SuperSwordmanRule.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Spikeman.h(9,52): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Swordman.h(9,51): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\SuperSwordmanRule.cpp(5,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\SuperSwordmanRule.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+  Swordman.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Knight.h(9,50): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Spikeman.h(9,52): error C2504: 'IVisitable': base class undefined
+  Team.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Spikeman.h(9,52): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Swordman.h(9,51): error C2504: 'IVisitable': base class undefined
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Team.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...

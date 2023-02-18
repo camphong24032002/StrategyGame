@@ -1,0 +1,34 @@
+﻿  Game.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Game.cpp(10,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Game.cpp(45,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Game.cpp(53,22): warning C4018: '<': signed/unsigned mismatch
+  Knight.cpp
+  main.cpp
+  NormalState.cpp
+  RandomGenerator.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\RandomGenerator.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rule.cpp
+  Soldier.cpp
+  SoldierFactory.cpp
+  Spikeman.cpp
+  State.cpp
+  SuperKnightRule.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\SuperKnightRule.cpp(5,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\SuperKnightRule.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+  SuperKnightState.cpp
+  SuperSpikemanRule.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\SuperSpikemanRule.cpp(5,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\SuperSpikemanRule.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+  SuperSpikemanState.cpp
+  SuperSwordmanRule.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\SuperSwordmanRule.cpp(5,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\SuperSwordmanRule.cpp(12,23): warning C4018: '<': signed/unsigned mismatch
+  SuperSwordmanState.cpp
+  Swordman.cpp
+  Team.cpp
+C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\StrategyGame\Team.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 663 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  StrategyGame.vcxproj -> C:\Users\Pc\Desktop\Bai tap\OOP\Project\StrategyGame\Release\StrategyGame.exe
